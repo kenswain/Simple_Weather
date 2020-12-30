@@ -6,6 +6,7 @@ api_key = "9ba6fc1b788596955f9cda5396fb080a"
 
 base_url = "https://api.openweathermap.org/data/2.5/weather?"
 
+# Change this to be your city
 city = "4668054"
 
 URL = base_url + "id=" + city + "&appid=" + api_key + "&units=imperial"
